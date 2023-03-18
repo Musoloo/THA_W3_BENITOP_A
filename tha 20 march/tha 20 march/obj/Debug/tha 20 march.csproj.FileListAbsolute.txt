@@ -1,0 +1,12 @@
+C:\Users\Benito\source\repos\tha 20 march\tha 20 march\bin\Debug\tha 20 march.exe.config
+C:\Users\Benito\source\repos\tha 20 march\tha 20 march\bin\Debug\tha 20 march.exe
+C:\Users\Benito\source\repos\tha 20 march\tha 20 march\bin\Debug\tha 20 march.pdb
+C:\Users\Benito\source\repos\tha 20 march\tha 20 march\obj\Debug\tha 20 march.csproj.AssemblyReference.cache
+C:\Users\Benito\source\repos\tha 20 march\tha 20 march\obj\Debug\tha 20 march.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benito\source\repos\tha 20 march\tha 20 march\obj\Debug\tha_20_march.Form1.resources
+C:\Users\Benito\source\repos\tha 20 march\tha 20 march\obj\Debug\tha_20_march.Properties.Resources.resources
+C:\Users\Benito\source\repos\tha 20 march\tha 20 march\obj\Debug\tha_20_march.Form2.resources
+C:\Users\Benito\source\repos\tha 20 march\tha 20 march\obj\Debug\tha 20 march.csproj.GenerateResource.cache
+C:\Users\Benito\source\repos\tha 20 march\tha 20 march\obj\Debug\tha 20 march.csproj.CoreCompileInputs.cache
+C:\Users\Benito\source\repos\tha 20 march\tha 20 march\obj\Debug\tha 20 march.exe
+C:\Users\Benito\source\repos\tha 20 march\tha 20 march\obj\Debug\tha 20 march.pdb
